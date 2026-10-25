@@ -1,40 +1,22 @@
+# Hi, I'm Vinson 👋
 
-# Hi there, I'm Vinson 👋
+**Student · Indie Developer · Creative Thinker**
 
-**University Student · Independent Developer · City & Transit Enthusiast**
+I turn ideas into interactive experiences — from urban transit simulations to full-stack web projects.
 
-你好！我是一名大学生，喜欢城市交通、软件开发和创造有趣的数字产品。
+Passionate about **technology, urban systems, and thoughtful design**. I enjoy exploring how software can make complex ideas tangible, useful, and engaging.
 
-I'm interested in building interactive web experiences, simulation games, and practical developer tools.
+### 🚀 Featured Projects
 
-## 🚇 Featured Project — City and Metro
+- **[City and Metro](https://github.com/VinsonFung/city-and-metro)** — An independently developed metro planning and urban transportation simulation game featuring real-world cities, dynamic traffic, and economic systems. [Play Online](https://city-and-metro.pages.dev)
+- **[Fullstack Site Skills](https://github.com/VinsonFung/fullstack-site-skills)** — Practical development guides for building modern web experiences with AI coding assistants.
 
-**城市与地铁 / City and Metro**
+### 🌐 Beyond GitHub
 
-A browser-based metro planning and urban transportation simulation game, featuring real-world cities, transit networks, and economic challenges.
+Explore more of my work, ideas, and interests on my personal website.
 
-- 🎮 [Play Online](https://city-and-metro.pages.dev)
-- 📦 [Source Code](https://github.com/VinsonFung/city-and-metro)
-- 🤝 Community contributions and pull requests are welcome.
-
-## 🛠 Other Projects
-
-**[Fullstack Site Skills](https://github.com/VinsonFung/fullstack-site-skills)**
-
-Guides for AI-assisted frontend development, visual design and backend workflows.
-
-## 💻 Technologies & Interests
-
-`JavaScript` · `HTML` · `CSS` · `GitHub` · `Cloudflare Pages`
-
-Urban Planning · Metro Systems · Web Development · Simulation Games
-
-## 🔗 Find Me
-
-- 🐙 [GitHub](https://github.com/VinsonFung)
-- 🚇 [City and Metro](https://city-and-metro.pages.dev)
+**[vinsonblog.cn](https://vinsonblog.cn/)**
 
 ---
 
-*Building things at the intersection of code, cities and creativity.*
-  
+*Building, learning, and creating — one idea at a time.*
